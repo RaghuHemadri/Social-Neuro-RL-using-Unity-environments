@@ -90,6 +90,6 @@ The environments for linux are available [here](https://drive.google.com/drive/f
 
 ## Demos
 
-* The demo for using unity environment is available in 'env_demo.ipynb'
-* A Q-Learning demo on grid-world environment is avvailable in 'grid_world_Q_learning.ipynb'
+* The demo for using unity environment is available in [env_demo.ipynb](https://github.com/RaghuHemadri/Social-Neuro-RL-using-Unity-environments/blob/main/env_demo.ipynb)
+* A Q-Learning demo on grid-world environment is avvailable in [grid_world_Q_learning.ipynb](https://github.com/RaghuHemadri/Social-Neuro-RL-using-Unity-environments/blob/main/grid_world_Q_learning.ipynb)
 * PPO results on food collector environment are available [here](https://docs.google.com/spreadsheets/d/1j2y0TfjD7djFnwiGHCCrySsPXsEHRcUf8e3km5vb1pw/edit?usp=sharing)
